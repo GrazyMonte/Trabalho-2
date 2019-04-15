@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\backup zizi\disco local c\documentos\programacao_avancada\trabalho_2\trabalho_2\trabalho_2\main.cpp(10): warning C4101: 'a': variável local não referenciada
+d:\backup zizi\disco local c\documentos\programacao_avancada\trabalho_2\trabalho_2\trabalho_2\main.cpp(10): warning C4101: 'aux': variável local não referenciada
+d:\backup zizi\disco local c\documentos\programacao_avancada\trabalho_2\trabalho_2\trabalho_2\main.cpp(10): warning C4101: 'j': variável local não referenciada
+d:\backup zizi\disco local c\documentos\programacao_avancada\trabalho_2\trabalho_2\trabalho_2\main.cpp(10): warning C4101: 'i': variável local não referenciada
+  vetor_matriz.cpp
+  Gerando Código...
+  Trabalho_2.vcxproj -> D:\Backup Zizi\Disco Local C\Documentos\Programacao_Avancada\Trabalho_2\Trabalho_2\Debug\Trabalho_2.exe
